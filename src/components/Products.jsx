@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import formatCurrency from "../utils";
+import Fade from "react-reveal/Fade";
 
 export default class Products extends Component {
   render() {
